@@ -1,0 +1,299 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Masters/Doctoral Thesis 
+% LaTeX Template
+% Version 1.43 (17/5/14)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original authors:
+% Steven Gunn 
+% http://users.ecs.soton.ac.uk/srg/softwaretools/document/templates/
+% and
+% Sunil Patel
+% http://www.sunilpatel.co.uk/thesis-template/
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Note:
+% Make sure to edit document variables in the Thesis.cls file
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[11pt, twoside]{Thesis} % The default font size and one-sided printing (no margin offsets)
+
+\graphicspath{{Graphics/}} % Specifies the directory where pictures are stored
+\usepackage{graphicx}
+\usepackage{pdflscape}
+\usepackage{amsmath}
+\usepackage[section]{placeins}
+\usepackage{feynmf}
+\usepackage{caption}
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage[square, numbers, comma, sort&compress]{natbib} % Use the natbib reference package - read up on this to edit the reference style; if you want text (e.g. Smith et al., 2012) for the in-text references (instead of numbers), remove 'numbers' 
+\hypersetup{urlcolor=blue, colorlinks=true} % Colors hyperlinks in blue - change to black if annoying
+\title{\ttitle} % Defines the thesis title - don't touch this
+
+\begin{document}
+\setlength{\unitlength}{1mm}
+
+\frontmatter % Use roman page numbering style (i, ii, iii, iv...) for the pre-content pages
+
+\setstretch{1.3} % Line spacing of 1.3
+
+% Define the page headers using the FancyHdr package and set up for one-sided printing
+\fancyhead{} % Clears all page headers and footers
+\rhead{\thepage} % Sets the right side header to show the page number
+\lhead{} % Clears the left side page header
+
+\pagestyle{fancy} % Finally, use the "fancy" page style to implement the FancyHdr headers
+
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}} % New command to make the lines in the title page
+
+% PDF meta-data
+\hypersetup{pdftitle={\ttitle}}
+\hypersetup{pdfsubject=\subjectname}
+\hypersetup{pdfauthor=\authornames}
+\hypersetup{pdfkeywords=\keywordnames}
+
+%----------------------------------------------------------------------------------------
+%	TITLE PAGE
+%----------------------------------------------------------------------------------------
+
+\begin{titlepage}
+\begin{center}
+
+~\\\vspace{1.4cm}
+{\Large \bfseries \ttitle}\\[0.4cm] % Thesis title
+\vspace{1.6cm}
+{\large Donald Charles Jones\\
+Charlottesville, VA
+\vspace{1.5cm} \\
+B.Sc.(Hon), Acadia University, 2008}
+\vspace{2.6cm}
+ 
+{\large A Dissertation presented to the Graduate Faculty\\
+of the University of Virginia in Candidacy for the Degree of\\ Doctor of Philosophy\\ % University requirement text
+\vspace{1cm}
+\large Department of Physics}\\[1cm]
+
+{\large University of Virginia\\ 
+October, 2015}\\[4cm] % Date
+ 
+\vfill
+\end{center}
+
+\end{titlepage}
+
+%----------------------------------------------------------------------------------------
+%	ABSTRACT PAGE
+%----------------------------------------------------------------------------------------
+
+\addtotoc{Abstract} 
+
+\abstract{\addtocontents{toc}{\vspace{1em}} 
+
+The \Qs experiment which ran in Hall C at Jefferson Lab in Newport News, VA, and completed data taking in May 2012, measured the weak charge of the proton \qwps via elastic electron-proton scattering. Longitudinally polarized electrons were scattered from an unpolarized liquid hydrogen target. The helicity of the electron beam was flipped at approximately 1~kHz between left and right spin states. The \sms predicts a small parity-violating asymmetry of scattering rates between right and left helicity states due to the weak interaction. An initial result using 4\% of the data was published in October 2013 \cite{wien0} with a measured parity-violating asymmetry of $-279\pm 35(\text{stat})\pm 31$ (syst)~ppb. This asymmetry, along with other data from parity-violating electron scattering experiments, provided the world's first determination of the  weak charge of the proton. The weak charge of the proton was found to be $Q_W^p=0.064\pm0.012$, in good agreement with the Standard Model prediction of $Q_W^p(SM)=0.0708\pm0.0003$\cite{PDG2014}.
+
+The results of the full dataset are expected to be published in early 2016 with an expected decrease in statistical error from the initial publication by a factor of 4-5. The level of precision of the final result makes it a useful test of Standard Model predictions and particularly of the ``running'' of $\sin^2\theta_W$ from the Z-mass to low energies. However, this level of statistical precision is not useful unless the systematic uncertainties also fall proportionately. This thesis focuses on reduction of error in two key systematics for the \Qs experiment. First, false asymmetries arising from helicity-correlated electron beam properties must be measured and removed. Techniques for determining these false asymmetries and removing them at the few ppb level are discussed. Second, as a parity-violating experiment, \Qs relies on accurate knowledge of electron beam polarimetry. To help address the requirement of accurate polarimetry, a Compton polarimeter built specifically for \Q. Compton polarimetry requires accurate knowledge of laser polarization inside a Fabry-Perot cavity enclosed in the electron beam pipe. A new technique was developed for \Qs that reduces this uncertainty to near zero.  
+}
+
+\clearpage % Start a new page
+%----------------------------------------------------------------------------------------
+%	DECLARATION PAGE
+%----------------------------------------------------------------------------------------
+\vspace{1cm}
+\large We approve the dissertation of Donald C. Jones.\\
+\vspace{1cm}~\\
+\begin{minipage}{0.7\textwidth}
+\rule[1em]{20em}{0.5pt}\\% This prints a line for the signature
+Supervisor: Prof. Kent Paschke\\ 
+~\\~\\~\\~\\
+\rule[1em]{20em}{0.5pt}\\% This prints a line for the signature
+Committee Member: Prof. Blaine Norum\\ 
+~\\~\\~\\~\\
+\rule[1em]{20em}{0.5pt}\\% This prints a line for the signature
+Committee Member: Prof. Nilanga Liyanage\\ 
+~\\~\\~\\~\\
+\rule[1em]{20em}{0.5pt}\\% This prints a line for the signature
+Committee Chair: Prof. James Fitz-Gerald\\ 
+\end{minipage}
+\begin{minipage}{0.3\textwidth}
+\rule[1em]{10em}{0.5pt}\\% This prints a line for the signature
+Date of Signature\\ 
+~\\~\\~\\~\\
+\rule[1em]{10em}{0.5pt}\\% This prints a line for the signature
+Date of Signature\\ 
+~\\~\\~\\~\\
+\rule[1em]{10em}{0.5pt}\\% This prints a line for the signature
+Date of Signature\\ 
+~\\~\\~\\~\\
+\rule[1em]{10em}{0.5pt}\\% This prints a line for the signature
+Date of Signature\\ 
+\end{minipage}
+
+
+\clearpage % Start a new page
+
+%----------------------------------------------------------------------------------------
+%	QUOTATION PAGE
+%----------------------------------------------------------------------------------------
+
+\pagestyle{empty} % No headers or footers for the following pages
+
+\null\vfill % Add some space to move the quote down the page a bit
+
+\vspace{1in}
+\textit{``Call unto me and I will answer you, and show you great and hidden things that you have not known."}
+\begin{flushright}
+Jeremiah 33:3
+\end{flushright}
+
+\vfill\vfill\vfill\vfill\vfill\vfill\null % Add some space at the bottom to position the quote just right
+
+\clearpage % Start a new page
+
+
+%----------------------------------------------------------------------------------------
+%	ACKNOWLEDGEMENTS
+%----------------------------------------------------------------------------------------
+
+\setstretch{1.3} % Reset the line-spacing to 1.3 for body text (if it has changed)
+
+\acknowledgements{\addtocontents{toc}{\vspace{1em}} % Add a gap in the Contents,
+The route from high school to Bachelors and on to PhD has been a rather circuitous track for me, and as I consider the key players who helped me reach this goal, I need to begin by acknowledging those who laid the foundations of education and character in my life. Without the encouragement and advice of others along the way, I might have been sidetracked numerous times perhaps permanently. Of course, I begin by acknowledging my parents, especially my mother. I think about my grade school teachers Ruth Morris, Shirley Harris and Murray Baker who encouraged me to go beyond high school and whose advice and confidence spurred me on. Or my older brothers Richard, Paul and Warren, who not only provided encouragement, but also helped materially when I would have otherwise had to quit for financial reasons. Richard has also been a key resource, helping me with difficult concepts all the way from undergraduate on through graduate studies. I want to acknowledge these as being key to my success.
+
+
+I would next like to acknowledge my advisor, Kent Paschke, who I met as an undergraduate intern at Jefferson Lab. Although he demanded quality scientific output and I greatly benefited from his tutelage in this respect, perhaps greater was his example of integrity in research reporting. I learned to question my own conclusions and  be sensitive to self-introduced biases. I always felt under him that one gained the right to be vocal, confident or opinionated on an issue only after he had well-formulated ideas that could clearly presented and backed up with data. This was invaluable to a student who was quick to jump to conclusions, fast to verbalize them and then slower to test the hypotheses empirically. He not only taught me good research practices, but he also offered common sense advice for critical decisions relating to education and career and has always been supportive. I will continue to value his opinion  going forward.
+
+
+Two others with whom I worked most closely and from whose expertise I most benefited were Dave Gaskell and Mark Dalton. They great resources, helping me to have confidence in tackling tasks on my own and willing to give credit, perhaps more than was due. These were a pleasure to work alongside.
+
+
+I want to acknowledge Dave Armstrong, not only for the leadership role he played in the experiment, but also for taking the effort to break issues down into simple terms and for taking care not to assume that students were familiar with the science being discussed. I would like to thank Mark Pitt for his quick insight and leadership during the course of this difficult experiment. I want to also acknowledge the critical role Roger Carlini played, ensuring that the experiment ran smoothly, providing perspective, offering insights and taking, perhaps more than his due, of persecution from the rest, while maintaining a smile.
+
+
+Finally, I want to thank my wife, Lydia, who has been a huge source of support and confidence through this whole process. She has been a tremendous encouragement, taking on more than her share of home duties to help me more rapidly reach the goal. 
+}
+\clearpage % Start a new page
+
+%----------------------------------------------------------------------------------------
+%	LIST OF CONTENTS/FIGURES/TABLES PAGES
+%----------------------------------------------------------------------------------------
+
+\pagestyle{fancy} % The page style headers have been "empty" all this time, now use the "fancy" headers as defined before to bring them back
+
+\lhead{\emph{Contents}} % Set the left side page header to "Contents"
+\tableofcontents % Write out the Table of Contents
+
+\lhead{\emph{List of Figures}} % Set the left side page header to "List of Figures"
+\listoffigures % Write out the List of Figures
+
+\lhead{\emph{List of Tables}} % Set the left side page header to "List of Tables"
+\listoftables % Write out the List of Tables
+
+%----------------------------------------------------------------------------------------
+%	ABBREVIATIONS
+%----------------------------------------------------------------------------------------
+
+\clearpage % Start a new page
+
+\setstretch{1.5} % Set the line spacing to 1.5, this makes the following tables easier to read
+
+\lhead{\emph{Abbreviations}} % Set the left side page header to "Abbreviations"
+\listofsymbols{ll} % Include a list of Abbreviations (a table of two columns)
+{
+\textbf{IHWP} & \textbf{I}nsertable \textbf{H}alf-\textbf{W}ave \textbf{P}late \\
+\textbf{PV} & \textbf{P}arity \textbf{V}iolation\\
+\textbf{SM} & \textbf{S}tandard \textbf{M}odel of Particle Physics\\
+\textbf{HC} & \textbf{H}elicity \textbf{C}orrelated\\
+\textbf{HCBA} & \textbf{H}elicity \textbf{C}orrelated \textbf{B}eam \textbf{A}symmetry\\
+\textbf{BPM} & \textbf{B}eam \textbf{P}osition \textbf{M}onitor\\
+\textbf{BCM} & \textbf{B}eam \textbf{C}urrent \textbf{M}onitor\\
+\textbf{ppm} & \textbf{p}arts \textbf{p}er \textbf{m}illion\\
+\textbf{ppb} & \textbf{p}arts \textbf{p}er \textbf{b}illion\\
+
+}
+
+%----------------------------------------------------------------------------------------
+%	PHYSICAL CONSTANTS/OTHER DEFINITIONS
+%----------------------------------------------------------------------------------------
+
+\clearpage % Start a new page
+
+\lhead{\emph{Physical Constants}} % Set the left side page header to "Physical Constants"
+
+\listofconstants{lrl} % Include a list of Physical Constants (a four column table)
+{
+Speed of Light & $c$ & $2.99792458\times10^{8}\ \mbox{ms}^{-\mbox{s}}$ (exact)\\
+Planck constant & $h$ & $4.135667516(91)\times 10^{-15} eV\cdot s$\\
+Mass of electron & $m_e$ & $0.510998928(11)~MeV/c^2$\\
+Mass of protron & $m_p$ & $938.272046(21)MeV/c^2$\\
+Fine structure constant & $\alpha=e^2/4\pi\epsilon_0\hbar c$ & $7.2973525698(24)\times 10^{-3}$\\
+Fermi coupling constant & $G_F/(\hbar c)^3$ & $1.1663787(6)\times10^{-5}~GeV^{-2}$\\
+$W^{\pm}$ boson mass & $ m_W$ & $80.385(15)~GeV/c^2$\\
+$Z^0$ boson mass & $ m_Z$ & $91.1876(21)~GeV/c^2$\\
+Strong coupling constant & $\alpha_s(m_Z)$ & $0.1185(6)$\\
+Weak mixing angle & $\sin^2\theta_W(m_Z)_{\overline{MS}}$ & $0.23126(5)$\\
+% Constant Name & Symbol & = & Constant Value (with units) \\
+}
+
+
+%	THESIS CONTENT - CHAPTERS
+%----------------------------------------------------------------------------------------
+
+\mainmatter % Begin numeric (1,2,3...) page numbering
+
+\pagestyle{fancy} % Return the page headers back to the "fancy" style
+
+% Include the chapters of the thesis as separate files from the Chapters folder
+% Uncomment the lines as you write the chapters
+\captionsetup{justification=justified,singlelinecheck=false}
+\input{Chapters/Chapter1}
+\input{Chapters/Chapter2} 
+\input{Chapters/Chapter3}
+\input{Chapters/Chapter4} 
+\input{Chapters/Chapter5} 
+\input{Chapters/Chapter6} 
+\input{Chapters/Chapter7} 
+\input{Chapters/Conclusion} 
+
+%----------------------------------------------------------------------------------------
+%	THESIS CONTENT - APPENDICES
+%----------------------------------------------------------------------------------------
+
+\addtocontents{toc}{\vspace{2em}} % Add a gap in the Contents, for aesthetics
+
+\appendix % Cue to tell LaTeX that the following 'chapters' are Appendices
+
+% Include the appendices of the thesis as separate files from the Appendices folder
+% Uncomment the lines as you write the Appendices
+
+\input{Appendices/AppendixA}
+\input{Appendices/AppendixB}
+\input{Appendices/AppendixC}
+\input{Appendices/AppendixD}
+\input{Appendices/AppendixE}
+
+\addtocontents{toc}{\vspace{2em}} % Add a gap in the Contents, for aesthetics
+
+\backmatter
+
+%----------------------------------------------------------------------------------------
+%	BIBLIOGRAPHY
+%----------------------------------------------------------------------------------------
+
+\label{Bibliography}
+
+\lhead{\emph{Bibliography}} % Change the page header to say "Bibliography"
+
+\bibliographystyle{unsrtnat} % Use the "unsrtnat" BibTeX style for formatting the Bibliography
+
+\bibliography{Bibliography} % The references (bibliography) information are stored in the file named "Bibliography.bib"
+
+\end{document}  

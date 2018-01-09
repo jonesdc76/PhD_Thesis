@@ -1,0 +1,24 @@
+% vacuum_polarization.mf -- do not edit, generated automatically by thesis.tex
+input feynmf
+require_RCS_revision "1.30";
+beginchar(1, 3.5*21.33955pt#, 3.2*21.33955pt#, 0);
+"feynmf: 1";
+LaTeX_unitlength:=21.33955pt;
+subgraph (0, 0, w, h);
+vinit;
+pickup pencircle scaled thin;
+vright (__b);
+vleft (__ein, __eout);
+vconnect ("phantom,tension=5", __v1, __v2);
+vconnect ("phantom,tension=5", __v3, __b);
+vconnect ("fermion,tension=1.5", __ein, __v1, __eout);
+vconnect ("photon", __v1, __v2);
+vconnect ("fermion,left,tension=1.6", __v2, __v3, __v2);
+vconnect ("photon", __v3, __b);
+vfreeze;
+vdraw;
+endsubgraph;
+endchar;
+% the end.
+end.
+endinput;

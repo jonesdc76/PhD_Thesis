@@ -1,0 +1,9 @@
+% fmftempl.t3 -- generated automatically from fmftempl.log
+% Think twice before editing THIS file!
+\fmfL(22.61356,12.86674,t){$\gamma ,Z$}
+\fmfL(3.28784,-1.28479,rt){$e_-$}
+\fmfL(3.28784,31.29929,rb){$e_+$}
+\fmfL(46.7081,-1.28479,lt){$\mu _+$}
+\fmfL(51.51216,9.21704,l){$\nu _{\mu }$}
+\fmfL(51.51212,20.79773,l){$s$}
+\fmfL(46.7081,31.29929,lb){$\noexpand \barc $}

@@ -1,0 +1,7 @@
+% fmftempl.t4 -- generated automatically from fmftempl.log
+% Think twice before editing THIS file!
+\fmfL(15.36438,16.40762,r){$\gamma ,Z$}
+\fmfL(-1.76524,1.79095,rt){$p$}
+\fmfL(36.7751,1.79095,lt){$p$}
+\fmfL(-1.76524,28.22354,rb){$e^-$}
+\fmfL(36.7751,28.22354,lb){$e^-$}

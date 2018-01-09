@@ -1,0 +1,24 @@
+% self_energy1.mf -- do not edit, generated automatically by thesis.tex
+input feynmf
+require_RCS_revision "1.30";
+beginchar(1, 2.2*21.33955pt#, 3*21.33955pt#, 0);
+"feynmf: 1";
+LaTeX_unitlength:=21.33955pt;
+subgraph (0, 0, w, h);
+vinit;
+pickup pencircle scaled thin;
+vbottom (__in, __out);
+vtop (__t);
+vconnect ("plain", __in, __v1);
+vconnect ("fermion", __v1, __v2);
+vconnect ("photon,left,tension=0.0", __v1, __v2);
+vconnect ("plain", __v2, __v3);
+vconnect ("fermion, tension=0.33", __v3, __out);
+vconnect ("photon", __v3, __t);
+vfreeze;
+vdraw;
+endsubgraph;
+endchar;
+% the end.
+end.
+endinput;

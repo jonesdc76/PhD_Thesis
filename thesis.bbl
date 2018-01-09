@@ -1,0 +1,795 @@
+\begin{thebibliography}{88}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Androic et~al.(2013)Androic, Armstrong, Asaturyan, Averett, Balewski,
+  Beaufait, Beminiwattha, Benesch, Benmokhtar, Birchall, Carlini, Cates,
+  Cornejo, Covrig, Dalton, Davis, Deconinck, Diefenbach, Dowd, Dunne, Dutta,
+  Duvall, Elaasar, Falk, Finn, Forest, Gaskell, Gericke, Grames, Gray, Grimm,
+  Guo, Hoskins, Johnston, Jones, Jones, Jones, Kargiantoulakis, King, Korkmaz,
+  Kowalski, Leacock, Leckey, Lee, Lee, Lee, MacEwan, Mack, Magee, Mahurin,
+  Mammei, Martin, McHugh, Meekins, Mei, Michaels, Micherdzinska, Mkrtchyan,
+  Mkrtchyan, Morgan, Myers, Narayan, Ndukum, Nelyubin, Nuruzzaman, van Oers,
+  Opper, Page, Pan, Paschke, Phillips, Pitt, Poelker, Rajotte, Ramsay, Roche,
+  Sawatzky, Seva, Shabestari, Silwal, Simicevic, Smith, Solvignon, Spayde,
+  Subedi, Subedi, Suleiman, Tadevosyan, Tobias, Tvaskis, Waidyawansa, Wang,
+  Wells, Wood, Yang, Young, and Zhamkochyan]{wien0}
+D.~Androic, D.~S. Armstrong, A.~Asaturyan, T.~Averett, J.~Balewski,
+  J.~Beaufait, R.~S. Beminiwattha, J.~Benesch, F.~Benmokhtar, J.~Birchall,
+  R.~D. Carlini, G.~D. Cates, J.~C. Cornejo, S.~Covrig, M.~M. Dalton, C.~A.
+  Davis, W.~Deconinck, J.~Diefenbach, J.~F. Dowd, J.~A. Dunne, D.~Dutta, W.~S.
+  Duvall, M.~Elaasar, W.~R. Falk, J.~M. Finn, T.~Forest, D.~Gaskell, M.~T.~W.
+  Gericke, J.~Grames, V.~M. Gray, K.~Grimm, F.~Guo, J.~R. Hoskins, K.~Johnston,
+  D.~Jones, M.~Jones, R.~Jones, M.~Kargiantoulakis, P.~M. King, E.~Korkmaz,
+  S.~Kowalski, J.~Leacock, J.~Leckey, A.~R. Lee, J.~H. Lee, L.~Lee, S.~MacEwan,
+  D.~Mack, J.~A. Magee, R.~Mahurin, J.~Mammei, J.~W. Martin, M.~J. McHugh,
+  D.~Meekins, J.~Mei, R.~Michaels, A.~Micherdzinska, A.~Mkrtchyan,
+  H.~Mkrtchyan, N.~Morgan, K.~E. Myers, A.~Narayan, L.~Z. Ndukum, V.~Nelyubin,
+  Nuruzzaman, W.~T.~H. van Oers, A.~K. Opper, S.~A. Page, J.~Pan, K.~D.
+  Paschke, S.~K. Phillips, M.~L. Pitt, M.~Poelker, J.~F. Rajotte, W.~D. Ramsay,
+  J.~Roche, B.~Sawatzky, T.~Seva, M.~H. Shabestari, R.~Silwal, N.~Simicevic,
+  G.~R. Smith, P.~Solvignon, D.~T. Spayde, A.~Subedi, R.~Subedi, R.~Suleiman,
+  V.~Tadevosyan, W.~A. Tobias, V.~Tvaskis, B.~Waidyawansa, P.~Wang, S.~P.
+  Wells, S.~A. Wood, S.~Yang, R.~D. Young, and S.~Zhamkochyan.
+\newblock First determination of the weak charge of the proton.
+\newblock \emph{Phys. Rev. Lett.}, 111:\penalty0 141803, Oct 2013.
+\newblock \doi{10.1103/PhysRevLett.111.141803}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevLett.111.141803}.
+
+\bibitem[Olive et~al.(2014)]{PDG2014}
+K.~A. Olive et~al.
+\newblock {Review of Particle Physics}.
+\newblock \emph{Chin. Phys.}, C38:\penalty0 090001, 2014.
+\newblock \doi{10.1088/1674-1137/38/9/090001}.
+
+\bibitem[Perdrisat et~al.(2007)Perdrisat, Punjabi, and
+  Vanderhaeghen]{Perdrisat}
+C.F. Perdrisat, V.~Punjabi, and M.~Vanderhaeghen.
+\newblock {Nucleon Electromagnetic Form Factors}.
+\newblock \emph{Prog.Part.Nucl.Phys.}, 59:\penalty0 694--764, 2007.
+\newblock \doi{10.1016/j.ppnp.2007.05.001}.
+
+\bibitem[Hall et~al.(2013)Hall, Blunden, Melnitchouk, Thomas, and
+  Young]{Hall2013}
+N.~L. Hall, P.~G. Blunden, W.~Melnitchouk, A.~W. Thomas, and R.~D. Young.
+\newblock Constrained $\ensuremath{\gamma}z$ interference corrections to
+  parity-violating electron scattering.
+\newblock \emph{Phys. Rev. D}, 88:\penalty0 013011, Jul 2013.
+\newblock \doi{10.1103/PhysRevD.88.013011}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevD.88.013011}.
+
+\bibitem[Rislow and Carlson(2013)]{Carlson2013}
+Benjamin~C. Rislow and Carl~E. Carlson.
+\newblock Modification of electromagnetic structure functions for the
+  $\ensuremath{\gamma}z$-box diagram.
+\newblock \emph{Phys. Rev. D}, 88:\penalty0 013018, Jul 2013.
+\newblock \doi{10.1103/PhysRevD.88.013018}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevD.88.013018}.
+
+\bibitem[Erler and Ramsey-Musolf(2005{\natexlab{a}})]{Musolf2005}
+Jens Erler and Michael~J. Ramsey-Musolf.
+\newblock Weak mixing angle at low energies.
+\newblock \emph{Phys. Rev. D}, 72:\penalty0 073003, Oct 2005{\natexlab{a}}.
+\newblock \doi{10.1103/PhysRevD.72.073003}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevD.72.073003}.
+
+\bibitem[Leemann et~al.(2001)Leemann, Douglas, and Krafft]{Leeman}
+Christoph~W. Leemann, David~R. Douglas, and Geoffrey~A. Krafft.
+\newblock The continuous electron beam accelerator facility: {CEBAF} at the
+  {J}efferson {L}aboratory.
+\newblock \emph{Annual Review of Nuclear and Particle Science}, 51\penalty0
+  (1):\penalty0 413--450, 2001.
+\newblock \doi{10.1146/annurev.nucl.51.101701.132327}.
+\newblock URL \url{http://dx.doi.org/10.1146/annurev.nucl.51.101701.132327}.
+
+\bibitem[Smith(2012)]{Smith}
+Greg Smith.
+\newblock The {Q}$_{weak}$ target performance.
+\newblock In \emph{Il Nuovo Cimento}, pages 159--163, July-August 2012.
+\newblock \doi{10.1393/ncc/i2012-11297-2}.
+
+\bibitem[Vansteenkiste et~al.(1993)Vansteenkiste, Vignolo, and
+  Aspect]{Vansteenkiste}
+N.~Vansteenkiste, P.~Vignolo, and A.~Aspect.
+\newblock Optical reversibility theorems for polarization: application to
+  remote control of polarization.
+\newblock \emph{J. Opt. Soc. Am. A}, 10\penalty0 (10):\penalty0 2240--2245, Oct
+  1993.
+\newblock \doi{10.1364/JOSAA.10.002240}.
+\newblock URL \url{http://josaa.osa.org/abstract.cfm?URI=josaa-10-10-2240}.
+
+\bibitem[Musolf et~al.(1994)Musolf, Donnelly, Dubach, Pollock, Kowalski, and
+  Beise]{Musolf1994}
+M.J. Musolf, T.W. Donnelly, J.~Dubach, S.J. Pollock, S.~Kowalski, and E.J.
+  Beise.
+\newblock Intermediate-energy semileptonic probes of the hadronic neutral
+  current.
+\newblock \emph{Physics Reports}, 239\penalty0 (1–2):\penalty0 1 -- 178,
+  1994.
+\newblock ISSN 0370-1573.
+\newblock \doi{http://dx.doi.org/10.1016/0370-1573(94)90040-X}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/037015739490040X}.
+
+\bibitem[Halzen and Martin(1984)]{Halzen}
+F.~Halzen and A.~D. Martin.
+\newblock \emph{QUARKS AND LEPTONS: AN INTRODUCTORY COURSE IN MODERN PARTICLE
+  PHYSICS}.
+\newblock Wiley, New York, USA, 1984.
+
+\bibitem[Allison et~al.(2015)Allison, Anderson, D., Armstrong, Asaturyan,
+  Averett, Averill, Balewski, Beaufait, Beminiwattha, Benesch, Benmokhtar,
+  Bessuille, Birchall, Bonnell, Bowman, Brindza, Brown, Carlini, Cates,
+  Cavness, Clark, Cornejo, Dusa, Covrig, Dalton, Davis, Dean, Deconinck,
+  Diefenbach, Dow, Dowd, Dunne, Dutta, Duvall, Echols, Elaasar, Falk, Finelli,
+  Finn, Gaskell, Gericke, Grames, Gray, Grimm, Guo, Hansknecht, Harrison,
+  Henderson, Hoskins, Ihloff, Johnston, Jones, Jones, Jones, Kargiantoulakis,
+  Kelsey, Khan, King, Korkmaz, Kowalski, Kubera, Leacock, Leckey, Lee, Lee,
+  Lee, Liang, MacEwan, Mack, Magee, Mahurin, Mammei, Martin, McCreary,
+  McDonald, McHugh, Medeiros, Meekins, Mei, Michaels, Micherdzinska, Mkrtchyan,
+  Mkrtchyan, Morgan, Musson, Mesick, Narayan, Ndukum, Nelyubin, Nuruzzaman, van
+  Oers, Opper, Page, Pan, Paschke, Phillips, Pitt, Poelker, Rajotte, Ramsay,
+  Roberts, Roche, Rose, Sawatzky, Seva, Shabestari, Silwal, Simicevic, Smith,
+  Sobczynski, Solvignon, Spayde, Stokes, Storey, Subedi, Subedi, Suleiman,
+  Tadevosyan, Tobias, Tvaskis, Urban, Waidyawansa, Wang, Wells, Wood, Yang,
+  Zhamkochyan, and Zielinski]{QweakNIM}
+T.~Allison, M.~Anderson, Androić D., D.S. Armstrong, A.~Asaturyan, T.~Averett,
+  R.~Averill, J.~Balewski, J.~Beaufait, R.S. Beminiwattha, J.~Benesch,
+  F.~Benmokhtar, J.~Bessuille, J.~Birchall, E.~Bonnell, J.D. Bowman,
+  P.~Brindza, D.B. Brown, R.D. Carlini, G.D. Cates, B.~Cavness, G.~Clark, J.C.
+  Cornejo, S.~Dusa, S.~Covrig, M.M. Dalton, C.A. Davis, D.C. Dean,
+  W.~Deconinck, J.~Diefenbach, K.~Dow, J.F. Dowd, J.A. Dunne, D.~Dutta, W.S.
+  Duvall, J.R. Echols, M.~Elaasar, W.R. Falk, K.D. Finelli, J.M. Finn,
+  D.~Gaskell, M.T.W. Gericke, J.~Grames, V.M. Gray, K.~Grimm, F.~Guo,
+  J.~Hansknecht, D.J. Harrison, E.~Henderson, J.R. Hoskins, E.~Ihloff,
+  K.~Johnston, D.~Jones, M.~Jones, R.~Jones, M.~Kargiantoulakis, J.~Kelsey,
+  N.~Khan, P.M. King, E.~Korkmaz, S.~Kowalski, A.~Kubera, J.~Leacock, J.P.
+  Leckey, A.R. Lee, J.H. Lee, L.~Lee, Y.~Liang, S.~MacEwan, D.~Mack, J.A.
+  Magee, R.~Mahurin, J.~Mammei, J.W. Martin, A.~McCreary, M.H. McDonald, M.J.
+  McHugh, P.~Medeiros, D.~Meekins, J.~Mei, R.~Michaels, A.~Micherdzinska,
+  A.~Mkrtchyan, H.~Mkrtchyan, N.~Morgan, J.~Musson, K.E. Mesick, A.~Narayan,
+  L.Z. Ndukum, V.~Nelyubin, Nuruzzaman, W.T.H. van Oers, A.K. Opper, S.A. Page,
+  J.~Pan, K.D. Paschke, S.K. Phillips, M.L. Pitt, M.~Poelker, J.F. Rajotte,
+  W.D. Ramsay, W.R. Roberts, J.~Roche, P.W. Rose, B.~Sawatzky, T.~Seva, M.H.
+  Shabestari, R.~Silwal, N.~Simicevic, G.R. Smith, S.~Sobczynski, P.~Solvignon,
+  D.T. Spayde, B.~Stokes, D.W. Storey, A.~Subedi, R.~Subedi, R.~Suleiman,
+  V.~Tadevosyan, W.A. Tobias, V.~Tvaskis, E.~Urban, B.~Waidyawansa, P.~Wang,
+  S.P. Wells, S.A. Wood, S.~Yang, S.~Zhamkochyan, and R.B. Zielinski.
+\newblock The {Q}weak experimental apparatus.
+\newblock \emph{Nuclear Inst. and Methods in Physics Research, A}, 781\penalty0
+  (Complete):\penalty0 105--133, 2015.
+\newblock \doi{10.1016/j.nima.2015.01.023}.
+
+\bibitem[Arrington and Sick(2007)]{ArringtonSick}
+John Arrington and Ingo Sick.
+\newblock Precise determination of low-$q$ nucleon electromagnetic form factors
+  and their impact on parity-violating $e$-$p$ elastic scattering.
+\newblock \emph{Phys. Rev. C}, 76:\penalty0 035201, Sep 2007.
+\newblock \doi{10.1103/PhysRevC.76.035201}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevC.76.035201}.
+
+\bibitem[Liu et~al.(2007)Liu, McKeown, and Ramsey-Musolf]{Lui2007}
+Jianglai Liu, Robert~D. McKeown, and Michael~J. Ramsey-Musolf.
+\newblock Global analysis of nucleon strange form factors at low ${Q}^{2}$.
+\newblock \emph{Phys. Rev. C}, 76:\penalty0 025202, Aug 2007.
+\newblock \doi{10.1103/PhysRevC.76.025202}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevC.76.025202}.
+
+\bibitem[Dirac(1928)]{Dirac}
+P.~A.~M. Dirac.
+\newblock The quantum theory of the electron.
+\newblock \emph{Proceedings of the Royal Society of London A: Mathematical,
+  Physical and Engineering Sciences}, 117\penalty0 (778):\penalty0 610--624,
+  1928.
+\newblock ISSN 0950-1207.
+\newblock \doi{10.1098/rspa.1928.0023}.
+
+\bibitem[Weinberg(1967)]{Weinberg}
+Steven Weinberg.
+\newblock A model of leptons.
+\newblock \emph{Phys. Rev. Lett.}, 19:\penalty0 1264--1266, Nov 1967.
+\newblock \doi{10.1103/PhysRevLett.19.1264}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevLett.19.1264}.
+
+\bibitem[Salam and Ward(1964)]{Salam}
+Abdus Salam and J.~C. Ward.
+\newblock Gauge theory of elementary interactions.
+\newblock \emph{Phys. Rev.}, 136:\penalty0 B763--B768, Nov 1964.
+\newblock \doi{10.1103/PhysRev.136.B763}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRev.136.B763}.
+
+\bibitem[Wu et~al.(1957)Wu, Ambler, Hayward, Hoppes, and Hudson]{Wu}
+C.~S. Wu, E.~Ambler, R.~W. Hayward, D.~D. Hoppes, and R.~P. Hudson.
+\newblock Experimental test of parity conservation in beta decay.
+\newblock \emph{Phys. Rev.}, 105:\penalty0 1413--1415, Feb 1957.
+\newblock \doi{10.1103/PhysRev.105.1413}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRev.105.1413}.
+
+\bibitem[{\it et al.}(April, 1961)]{Backenstoss}
+Backenstoss {\it et al.}
+\newblock Helicity of $\mu^-$ mesons from $\pi$-meson decay.
+\newblock \emph{Phys. Rev. Letters 6}, 6\penalty0 (8):\penalty0 415--416,
+  April, 1961.
+
+\bibitem[Staley(2004)]{Staley}
+K.W. Staley.
+\newblock {The evidence for the top quark: Objectivity and bias in
+  collaborative experimentation}.
+\newblock pages 36--37, 2004.
+
+\bibitem[Lewis et~al.(1977)Lewis, Hollister, Soreide, Lindahl, and
+  Fortson]{Lewis}
+L.~L. Lewis, J.~H. Hollister, D.~C. Soreide, E.~G. Lindahl, and E.~N. Fortson.
+\newblock Upper limit on parity-nonconserving optical rotation in atomic
+  bismuth.
+\newblock \emph{Phys. Rev. Lett.}, 39:\penalty0 795--798, Sep 1977.
+\newblock \doi{10.1103/PhysRevLett.39.798}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevLett.39.795}.
+
+\bibitem[Baird et~al.(1977)Baird, Brimicombe, Hunt, Roberts, Sandars, and
+  Stacey]{Baird}
+P.~E.~G. Baird, M.~W. S.~M. Brimicombe, R.~G. Hunt, G.~J. Roberts, P.~G.~H.
+  Sandars, and D.~N. Stacey.
+\newblock Search for parity-nonconserving optical rotation in atomic bismuth.
+\newblock \emph{Phys. Rev. Lett.}, 39:\penalty0 798--801, Sep 1977.
+\newblock \doi{10.1103/PhysRevLett.39.798}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevLett.39.798}.
+
+\bibitem[{\it et al.}(August, 1978)]{Prescott}
+Prescott {\it et al.}
+\newblock Parity non-conservation in inelastic electron scattering.
+\newblock \emph{Physics Letters}, 77B\penalty0 (3):\penalty0 347--352, August,
+  1978.
+
+\bibitem[Bernauer(2014)]{Bernauer}
+J.~C.~{\it et al.} Bernauer.
+\newblock Electric and magnetic form factors of the proton.
+\newblock \emph{Phys. Rev. C}, 90:\penalty0 015206, Jul 2014.
+\newblock \doi{10.1103/PhysRevC.90.015206}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevC.90.015206}.
+
+\bibitem[Hofstadter(1956)]{Hofstadter}
+Robert Hofstadter.
+\newblock Electron scattering and nuclear structure.
+\newblock \emph{Rev. Mod. Phys.}, 28:\penalty0 214--254, Jul 1956.
+\newblock \doi{10.1103/RevModPhys.28.214}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/RevModPhys.28.214}.
+
+\bibitem[Galster et~al.(1971)Galster, Klein, Moritz, Schmidt, Wegener, and
+  Bleckwenn]{Galster}
+S.~Galster, H.~Klein, J.~Moritz, K.H. Schmidt, D.~Wegener, and J.~Bleckwenn.
+\newblock Elastic electron-deuteron scattering and the electric neutron form
+  factor at four-momentum transfers $5 fm^{-2} < q^2 < 14 fm^{-2}$.
+\newblock \emph{Nuclear Physics B}, 32\penalty0 (1):\penalty0 221--237, 1971.
+\newblock ISSN 0550--3213.
+\newblock \doi{http://dx.doi.org/10.1016/0550-3213(71)90068-X}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/055032137190068X}.
+
+\bibitem[Goldhaber and Goldhaber(1989)]{Goldhaber}
+Robert~N. Goldhaber and Gerson Goldhaber.
+\newblock \emph{THE EXPERIMENTAL FOUNDATIONS OF PARTICLE PHYSICS}.
+\newblock Cambridge, New York, USA, 1989.
+
+\bibitem[Arrington et~al.(2007)Arrington, Roberts, and Zanotti]{Arrington2007}
+J~Arrington, C~D Roberts, and J~M Zanotti.
+\newblock Nucleon electromagnetic form factors.
+\newblock \emph{Journal of Physics G: Nuclear and Particle Physics},
+  34\penalty0 (7):\penalty0 S23, 2007.
+\newblock URL \url{http://stacks.iop.org/0954-3899/34/i=7/a=S03}.
+
+\bibitem[Erler and Ramsey-Musolf(2005{\natexlab{b}})]{Erler2005}
+J.~Erler and M.J. Ramsey-Musolf.
+\newblock Review.
+\newblock \emph{Progress in Particle and Nuclear Physics}, 54\penalty0
+  (2):\penalty0 351--442, 2005{\natexlab{b}}.
+\newblock \doi{10.1016/j.ppnp.2004.08.001}.
+
+\bibitem[MO and TSAI(1969)]{MoAndTsai}
+L.~W. MO and Y.~S. TSAI.
+\newblock Radiative corrections to elastic and inelastic $\mathrm{ep}$ and
+  $\mathrm{up}$ scattering.
+\newblock \emph{Rev. Mod. Phys.}, 41:\penalty0 205--235, Jan 1969.
+\newblock \doi{10.1103/RevModPhys.41.205}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/RevModPhys.41.205}.
+
+\bibitem[TSAI(1971)]{Tsai1971}
+Yung-Su TSAI.
+\newblock Radiative corrections to electron scatterings.
+\newblock Jan 1971.
+
+\bibitem[Ellis(2010)]{ColleenEllis}
+Colleen Ellis.
+\newblock \emph{Measurement of the Strange Quark Contribution to Nucleon
+  Structure through Parity-Violating Electron Scattering}.
+\newblock PhD thesis, University of Maryland, 2010.
+
+\bibitem[Erler et~al.(2003)Erler, Kurylov, and Ramsey-Musolf]{Erler2003}
+Jens Erler, Andriy Kurylov, and Michael~J. Ramsey-Musolf.
+\newblock Weak charge of the proton and new physics.
+\newblock \emph{Phys. Rev. D}, 68:\penalty0 016006, Jul 2003.
+\newblock \doi{10.1103/PhysRevD.68.016006}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevD.68.016006}.
+
+\bibitem[Sibirtsev et~al.(2010)Sibirtsev, Blunden, Melnitchouk, and
+  Thomas]{Sibirtsev2010}
+A.~Sibirtsev, P.~G. Blunden, W.~Melnitchouk, and A.~W. Thomas.
+\newblock $\ensuremath{\gamma}z$ corrections to forward-angle parity-violating
+  $ep$ scattering.
+\newblock \emph{Phys. Rev. D}, 82:\penalty0 013011, Jul 2010.
+\newblock \doi{10.1103/PhysRevD.82.013011}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevD.82.013011}.
+
+\bibitem[Rislow and Carlson(2011)]{Carlson2011}
+Benjamin~C. Rislow and Carl~E. Carlson.
+\newblock Contributions from $\ensuremath{\gamma}z$ box diagrams to parity
+  violating elastic $e\mathrm{\text{-}}p$ scattering.
+\newblock \emph{Phys. Rev. D}, 83:\penalty0 113007, Jun 2011.
+\newblock \doi{10.1103/PhysRevD.83.113007}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevD.83.113007}.
+
+\bibitem[Gorchtein et~al.(2011)Gorchtein, Horowitz, and
+  Ramsey-Musolf]{Gorchtein2011}
+Mikhail Gorchtein, C.~J. Horowitz, and Michael~J. Ramsey-Musolf.
+\newblock Model dependence of the $\ensuremath{\gamma}z$ dispersion correction
+  to the parity-violating asymmetry in elastic $ep$ scattering.
+\newblock \emph{Phys. Rev. C}, 84:\penalty0 015502, Jul 2011.
+\newblock \doi{10.1103/PhysRevC.84.015502}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevC.84.015502}.
+
+\bibitem[Blunden et~al.(2011)Blunden, Melnitchouk, and Thomas]{Blunden2011}
+P.~G. Blunden, W.~Melnitchouk, and A.~W. Thomas.
+\newblock New formulation of $\ensuremath{\gamma}z$ box corrections to the weak
+  charge of the proton.
+\newblock \emph{Phys. Rev. Lett.}, 107:\penalty0 081801, Aug 2011.
+\newblock \doi{10.1103/PhysRevLett.107.081801}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevLett.107.081801}.
+
+\bibitem[Chetyrkin et~al.(1995)Chetyrkin, Kühn, and
+  Steinhauser]{Chetyrkin1995}
+K.G. Chetyrkin, J.H. Kühn, and M.~Steinhauser.
+\newblock Corrections of order $\mathcal{O}({G}_{F}{M}_t^2\alpha_s^2)$ to the
+  $\rho$ parameter.
+\newblock \emph{Physics Letters B}, 351\penalty0 (1–3):\penalty0 331 -- 338,
+  1995.
+\newblock ISSN 0370-2693.
+\newblock \doi{http://dx.doi.org/10.1016/0370-2693(95)00380-4}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/0370269395003804}.
+
+\bibitem[Armstrong(2007)]{Jeopardy}
+D.~S.~{\it et al.} Armstrong.
+\newblock The {Q}weak {E}xperiment: A search for new physics at the {T}e{V}
+  scale via a measurement of the proton's weak charge.
+\newblock Technical report, Jefferson Lab, December 2007.
+\newblock PAC Proposal Update: JLab E02-020.
+
+\bibitem[Pierce et~al.(1975)Pierce, Meier, and Zürcher]{Pierce1975}
+D.~T. Pierce, F.~Meier, and P.~Zürcher.
+\newblock Negative electron affinity {G}a{A}s: A new source of spin-polarized
+  electrons.
+\newblock \emph{Applied Physics Letters}, 26\penalty0 (12):\penalty0 670--672,
+  1975.
+\newblock \doi{http://dx.doi.org/10.1063/1.88030}.
+\newblock URL
+  \url{http://scitation.aip.org/content/aip/journal/apl/26/12/10.1063/1.88030}.
+
+\bibitem[Maruyama et~al.(2004)Maruyama, Luh, Brachmann, Clendenin, Garwin,
+  Harvey, Jiang, Kirby, and Prescott]{Maruyama}
+T.~Maruyama, D.~A Luh, A.~Brachmann, J.~E. Clendenin, E.~L. Garwin, S.~Harvey,
+  J.~Jiang, R.~E. Kirby, and C.~Y. Prescott.
+\newblock Systematic study of polarized elecron emission from strained
+  {G}a{A}s/{G}a{A}s{P} superlattice photocathodes.
+\newblock \emph{Applied Physics Letters}, 85\penalty0 (13):\penalty0
+  2640--2642, 2004.
+\newblock \doi{http://dx.doi.org/10.1063/1.1795358}.
+
+\bibitem[Paschke(2007)]{Paschke2007}
+K.D. Paschke.
+\newblock Controlling helicity-correlated beam asymmetries in a polarized
+  electron source.
+\newblock \emph{The European Physical Journal A}, 32\penalty0 (4):\penalty0
+  549--553, 2007.
+\newblock ISSN 1434-6001.
+\newblock \doi{10.1140/epja/i2006-10442-8}.
+\newblock URL \url{http://dx.doi.org/10.1140/epja/i2006-10442-8}.
+
+\bibitem[Adderley et~al.(2012)Adderley, Clark, Covert, Grames, Hansknecht,
+  Surles-Law, Machie, Poelker, Stutzman, and Suleiman]{Adderley2012}
+P.~A. Adderley, J.~Clark, S.~Covert, J.~Grames, J.~Hansknecht, K.~Surles-Law,
+  D.~Machie, M.~Poelker, M.~L. Stutzman, and R~Suleiman.
+\newblock Photoinjector improvements at cebaf in support of parity violation
+  experiments.
+\newblock In \emph{Il Nuovo Cimento}, pages 152--158. Inspire-516625,
+  July-August 2012.
+\newblock \doi{10.1393/ncc/i2012-11288-3}.
+
+\bibitem[Kargiantoulakis(Future)]{Kargiantoulakis}
+Emmanouil Kargiantoulakis.
+\newblock PhD thesis, University of Virginia, December Future.
+
+\bibitem[Adderley et~al.(2011)Adderley, Benesch, Clark, Grames, Hansknecht,
+  et~al.]{Adderley2011}
+P.A. Adderley, J.F. Benesch, J.~Clark, J.M. Grames, J.~Hansknecht, et~al.
+\newblock {Two Wien Filter Spin Flipper}.
+\newblock \emph{Conf.Proc.}, C110328:\penalty0 862--864, 2011.
+
+\bibitem[Barry(1991)]{Barry1991}
+W.~Barry.
+\newblock A general analysis of thin wire pickups for high frequency beam
+  position monitors.
+\newblock \emph{Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment},
+  301\penalty0 (3):\penalty0 407--416, 1991.
+\newblock ISSN 0168-9002.
+\newblock \doi{http://dx.doi.org/10.1016/0168-9002(91)90004-A}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/016890029190004A}.
+
+\bibitem[Powers et~al.(1997)Powers, Doolittle, Ursic, and Wagner]{Powers1997}
+Tom Powers, Lawrence Doolittle, Rok Ursic, and Jeffrey Wagner.
+\newblock Design, commissioning and operational results of wide dynamic range
+  bpm switched electrode electronics.
+\newblock \emph{AIP Conference Proceedings}, 390\penalty0 (1):\penalty0
+  257--265, 1997.
+\newblock \doi{http://dx.doi.org/10.1063/1.52284}.
+\newblock URL
+  \url{http://scitation.aip.org/content/aip/proceeding/aipcp/10.1063/1.52284}.
+
+\bibitem[Krafft(1993)]{Geoffrey1993}
+Geoffrey Krafft.
+\newblock How the linac beam position monitors "work".
+\newblock Technical report, 1993.
+\newblock URL \url{https://userweb.jlab.org/~pzhu/papers/bpm/93-004.pdf}.
+
+\bibitem[Waidyawansa(2013)]{Waidyawansa}
+D.~Buddhini~P. Waidyawansa.
+\newblock \emph{A 3\% Measurement of the Beam Normal Single Spin Asymmetry in
+  Foward Angle Proton Scattering Using the Qweak Setup}.
+\newblock PhD thesis, Ohio University, August 2013.
+
+\bibitem[Yan et~al.(1995)Yan, Adderley, Barker, Beaufait, Capek, Carlini,
+  Dahlberg, Feldl, Jordan, Kross, Oren, Wojcik, and VanDyke]{Yan1995}
+C.~Yan, P.~Adderley, D.~Barker, J.~Beaufait, K.~Capek, R.~Carlini, J.~Dahlberg,
+  E.~Feldl, K.~Jordan, B.~Kross, W.~Oren, R.~Wojcik, and J.~VanDyke.
+\newblock Superharp — a wire scanner with absolute position readout for beam
+  energy measurement at \{CEBAF\}.
+\newblock \emph{Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment},
+  365\penalty0 (2–3):\penalty0 261 -- 267, 1995.
+\newblock ISSN 0168-9002.
+\newblock \doi{http://dx.doi.org/10.1016/0168-9002(95)00505-6}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/0168900295005056}.
+
+\bibitem[Dickson and Lebedev(1999)]{Lebedev}
+R.~Dickson and V.~A. Lebedev.
+\newblock ``{F}ast digital feedback for energy and beam position
+  stabilization''.
+\newblock In \emph{Proceedings of 1999 Particle Accelerator Conference}, pages
+  646--648. Inspire-516625, 1999.
+
+\bibitem[Denard et~al.(2001)Denard, Saha, and Lavessiere]{Denard2001}
+J.~Denard, A.~Saha, and G.~Lavessiere.
+\newblock {High Accuracy Beam Current Monitor System for CEBAF's Experimental
+  Hall A}.
+\newblock \emph{Conf.Proc.}, C0106181:\penalty0 2326--2328, 2001.
+
+\bibitem[Hauger et~al.(2001)Hauger, Honegger, Jourdan, Kubon, Petitjean, Rohe,
+  Sick, Warren, Wöhrle, Zhao, Ent, Mitchell, Crabb, Tobias, Zeier, and
+  Zihlmann]{Hauger2001}
+M.~Hauger, A.~Honegger, J.~Jourdan, G.~Kubon, T.~Petitjean, D.~Rohe, I.~Sick,
+  G.~Warren, H.~Wöhrle, J.~Zhao, R.~Ent, J.~Mitchell, D.~Crabb, A.~Tobias,
+  M.~Zeier, and B.~Zihlmann.
+\newblock A high-precision polarimeter.
+\newblock \emph{Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment},
+  462\penalty0 (3):\penalty0 382 -- 392, 2001.
+\newblock ISSN 0168-9002.
+\newblock \doi{http://dx.doi.org/10.1016/S0168-9002(01)00197-8}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/S0168900201001978}.
+
+\bibitem[Levchuk(1994)]{Levchuk1994}
+L.G. Levchuk.
+\newblock The intra-atomic motion of bound electrons as a possible source of
+  the systematic error in electron beam polarization measurements by means of a
+  möller polarimeter.
+\newblock \emph{Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment},
+  345\penalty0 (3):\penalty0 496 -- 499, 1994.
+\newblock ISSN 0168-9002.
+\newblock \doi{http://dx.doi.org/10.1016/0168-9002(94)90505-3}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/0168900294905053}.
+
+\bibitem[Denner and Dittmaier(1999)]{Denner1999}
+A.~Denner and S.~Dittmaier.
+\newblock Complete $\mathcal{O}(\alpha)$ \{QED\} corrections to polarized
+  compton scattering.
+\newblock \emph{Nuclear Physics B}, 540\penalty0 (1–2):\penalty0 58 -- 86,
+  1999.
+\newblock ISSN 0550-3213.
+\newblock \doi{http://dx.doi.org/10.1016/S0550-3213(98)00767-6}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/S0550321398007676}.
+
+\bibitem[Prescott(1973)]{Prescott1973}
+C.Y. Prescott.
+\newblock {SPIN DEPENDENT COMPTON SCATTERING FOR USE IN ANALYZING ELECTRON BEAM
+  POLARIZATIONS}.
+\newblock 1973.
+
+\bibitem[Tolhoek(1956)]{Tolhoek1956}
+H.~A. Tolhoek.
+\newblock Electron polarization, theory and experiment.
+\newblock \emph{Rev. Mod. Phys.}, 28:\penalty0 277--298, Jul 1956.
+\newblock \doi{10.1103/RevModPhys.28.277}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/RevModPhys.28.277}.
+
+\bibitem[Ver(2005)]{Verdi10}
+\emph{Operators Manual VerdiTM V-8/V-10 Diode-Pumped Lasers}, August 2005.
+\newblock Part No. 0174-929-00, Rev DB.
+
+\bibitem[Cornejo(2015)]{Cornejo}
+Juan~Carlos Cornejo.
+\newblock \emph{Compton Scattering Polarimetry for the Determination of the
+  Proton's Weak Charge Through Measurements of the Parity-Violating Asymmetry
+  of 1H(e,e')p}.
+\newblock PhD thesis, College of William and Mary, Aug 2015.
+
+\bibitem[Narayan(2015)]{Narayan}
+Amrendra Narayan.
+\newblock \emph{Determination of electron beam polarization using electron
+  detector in Compton polarimeter with less than 1\% statistical and systematic
+  uncertainty}.
+\newblock PhD thesis, Mississippi State University, 2015.
+
+\bibitem[Myers(2012)]{Myers}
+Katherine~E. Myers.
+\newblock \emph{The First Determination of the Proton's Weak Charge Through
+  Parity-Violating Asymmetry Measurements in Elastic e + p and e + {A}l
+  Scattering}.
+\newblock PhD thesis, The George Washington University, 2012.
+
+\bibitem[Wang(2007)]{Wang}
+P.~Wang.
+\newblock Magnetic field simulation and mapping for the $q_{Weak}$ experiment.
+\newblock Master's thesis, University of Manitoba, 2007.
+\newblock URL \url{http://hdl.handle.net/1993/2454}.
+
+\bibitem[Leacock(2012)]{Leacock2012}
+John Leacock.
+\newblock \emph{Measuring the Weak Charge of the Proton and the Hadronic Parity
+  Violation of the N -> {Delta} Transition}.
+\newblock PhD thesis, Virginia Polytechnic Institute and State University, Oct
+  2012.
+\newblock URL \url{http://www.osti.gov/scitech/servlets/purl/1057572}.
+
+\bibitem[Leckey(2012)]{Leckey2012}
+John Leckey.
+\newblock \emph{The First Direct Measurement of the Weak Charge of the Proton}.
+\newblock PhD thesis, College of William and Mary, Jan 2012.
+
+\bibitem[Hausman(Fall 2001)]{Hausman}
+Jerry Hausman.
+\newblock ``{M}ismeasured variables and econometric analysis: Problems from the
+  right and problems from the left''.
+\newblock \emph{Journal of Economic Perspectives}, 15\penalty0 (4):\penalty0
+  57--67, Fall 2001.
+
+\bibitem[Zang(Future)]{Peng}
+Peng Zang.
+\newblock PhD thesis, Syracuse University, Future.
+
+\bibitem[Nuruzzaman(2014)]{Nur}
+Nuruzzaman.
+\newblock \emph{Beam Normal Single Spin Asymmetry in Forward Angle Inelastic
+  Electron-Proton Scattering using the Q-Weak Apparatus}.
+\newblock PhD thesis, Hampton University, December 2014.
+\newblock URL
+  \url{https://misportal.jlab.org/ul/publications/view_pub.cfm?pub_id=13632}.
+
+\bibitem[Kogelnik and Li(1966)]{Kogelnik}
+H.~Kogelnik and T.~Li.
+\newblock Laser beams and resonators.
+\newblock \emph{Appl. Opt.}, 5\penalty0 (10):\penalty0 1550--1567, Oct 1966.
+\newblock \doi{10.1364/AO.5.001550}.
+\newblock URL \url{http://ao.osa.org/abstract.cfm?URI=ao-5-10-1550}.
+
+\bibitem[Anderson(1984)]{Anderson}
+Dana~Z. Anderson.
+\newblock Alignment of resonant optical cavities.
+\newblock \emph{Appl. Opt.}, 23\penalty0 (17):\penalty0 2944--2949, Sep 1984.
+\newblock \doi{10.1364/AO.23.002944}.
+\newblock URL \url{http://ao.osa.org/abstract.cfm?URI=ao-23-17-2944}.
+
+\bibitem[Coherent()]{Coherent}
+Coherent.
+\newblock Wavelength control and locking with sub-mhz precision.
+\newblock Technical report, Coherent Inc.
+\newblock URL \url{"https://www.coherent.com/downloads/Wavelength Control and
+  Locking with Sub-MHz Precision.pdf#page=4"}.
+
+\bibitem[Black(2001)]{Black}
+Eric~D. Black.
+\newblock An introduction to pound–drever–hall laser frequency
+  stabilization.
+\newblock \emph{American Journal of Physics}, 69\penalty0 (1):\penalty0 79--87,
+  2001.
+\newblock \doi{http://dx.doi.org/10.1119/1.1286663}.
+\newblock URL
+  \url{http://scitation.aip.org/content/aapt/journal/ajp/69/1/10.1119/1.1286663}.
+
+\bibitem[Dig(2009)]{Digilock}
+\emph{Digilock 110 Feedback Controlyzer Manual}, 2009.
+
+\bibitem[JONES(1941{\natexlab{a}})]{Jones1}
+R.~CLARK JONES.
+\newblock A new calculus for the treatment of optical systems.
+\newblock \emph{J. Opt. Soc. Am.}, 31\penalty0 (7):\penalty0 488--493, Jul
+  1941{\natexlab{a}}.
+\newblock \doi{10.1364/JOSA.31.000488}.
+\newblock URL
+  \url{http://www.osapublishing.org/abstract.cfm?URI=josa-31-7-488}.
+
+\bibitem[JR. and JONES(1941)]{Jones2}
+HENRY~HURWITZ JR. and R.~CLARK JONES.
+\newblock A new calculus for the treatment of optical systems.
+\newblock \emph{J. Opt. Soc. Am.}, 31\penalty0 (7):\penalty0 493--495, Jul
+  1941.
+\newblock \doi{10.1364/JOSA.31.000493}.
+\newblock URL
+  \url{http://www.osapublishing.org/abstract.cfm?URI=josa-31-7-493}.
+
+\bibitem[JONES(1941{\natexlab{b}})]{Jones3}
+R.~CLARK JONES.
+\newblock A new calculus for the treatment of optical systems.
+\newblock \emph{J. Opt. Soc. Am.}, 31\penalty0 (7):\penalty0 500--503, Jul
+  1941{\natexlab{b}}.
+\newblock \doi{10.1364/JOSA.31.000500}.
+\newblock URL
+  \url{http://www.osapublishing.org/abstract.cfm?URI=josa-31-7-500}.
+
+\bibitem[Asenbaum and Arndt(2011)]{Asenbaum}
+Peter Asenbaum and Markus Arndt.
+\newblock Cavity stabilization using the weak intrinsic birefringence of
+  dielectric mirrors.
+\newblock \emph{Opt. Lett.}, 36\penalty0 (19):\penalty0 3720--3722, Oct 2011.
+\newblock \doi{10.1364/OL.36.003720}.
+\newblock URL \url{http://ol.osa.org/abstract.cfm?URI=ol-36-19-3720}.
+
+\bibitem[Friend et~al.(2012)Friend, Parno, Benmokhtar, Camsonne, Dalton,
+  Franklin, Mamyan, Michaels, Nanda, Nelyubin, Paschke, Quinn, Rakhman, Souder,
+  and Tobias]{Friend}
+M.~Friend, D.~Parno, F.~Benmokhtar, A.~Camsonne, M.M. Dalton, G.B. Franklin,
+  V.~Mamyan, R.~Michaels, S.~Nanda, V.~Nelyubin, K.~Paschke, B.~Quinn,
+  A.~Rakhman, P.~Souder, and A.~Tobias.
+\newblock Upgraded photon calorimeter with integrating readout for the hall a
+  compton polarimeter at jefferson lab.
+\newblock \emph{Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment},
+  676:\penalty0 96 -- 105, 2012.
+\newblock ISSN 0168-9002.
+\newblock \doi{http://dx.doi.org/10.1016/j.nima.2012.02.041}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/S0168900212002392}.
+
+\bibitem[Collaboration(2014)]{MOLLER}
+The~MOLLER Collaboration.
+\newblock {The MOLLER Experiment: An Ultra-Precise Measurement of the Weak
+  Mixing Angle Using M{\o}ller Scattering}.
+\newblock 2014.
+
+\bibitem[Souder et~al.(2012)]{SOLID}
+P.~Souder et~al.
+\newblock {Precision Measurement of Parity-violation in Deep Inelastic
+  Scattering Over a Broad Kinematic Range}.
+\newblock \emph{JLab proposal}, 2012.
+
+\bibitem[Wagman and Miller(2014)]{Miller2014}
+Michael Wagman and Gerald~A. Miller.
+\newblock Charge symmetry breaking and parity violating electron-proton
+  scattering.
+\newblock \emph{Phys. Rev. C}, 89:\penalty0 065206, Jun 2014.
+\newblock \doi{10.1103/PhysRevC.89.065206}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevC.89.065206}.
+
+\bibitem[Ahmed et~al.(2012)Ahmed, Allada, Aniol, Armstrong, Arrington, Baturin,
+  Bellini, Benesch, Beminiwattha, Benmokhtar, Canan, Camsonne, Cates, Chen,
+  Chudakov, Cisbani, Dalton, de~Jager, De~Leo, Deconinck, Decowski, Deng, Deur,
+  Dutta, Franklin, Friend, Frullani, Garibaldi, Giusa, Glamazdin, Golge, Grimm,
+  Hansen, Higinbotham, Holmes, Holmstrom, Huang, Huang, Hyde, Jen, Jin, Jones,
+  Kang, King, Kowalski, Kumar, Lee, LeRose, Liyanage, Long, McNulty,
+  Margaziotis, Meddi, Meekins, Mercado, Meziani, Michaels, Mu\~noz Camacho,
+  Mihovilovic, Muangma, Myers, Nanda, Narayan, Nelyubin, Nuruzzaman, Oh, Pan,
+  Parno, Paschke, Phillips, Qian, Qiang, Quinn, Rakhman, Reimer, Rider,
+  Riordan, Roche, Rubin, Russo, Saenboonruang, Saha, Sawatzky, Silwal, Sirca,
+  Souder, Sperduto, Subedi, Suleiman, Sulkosky, Sutera, Tobias, Urciuoli,
+  Waidyawansa, Wang, Wexler, Wilson, Wojtsekhowski, Zhan, Yan, Yao, Ye, Zhao,
+  and Zheng]{HAPPEX3}
+Z.~Ahmed, K.~Allada, K.~A. Aniol, D.~S. Armstrong, J.~Arrington, P.~Baturin,
+  V.~Bellini, J.~Benesch, R.~Beminiwattha, F.~Benmokhtar, M.~Canan,
+  A.~Camsonne, G.~D. Cates, J.-P. Chen, E.~Chudakov, E.~Cisbani, M.~M. Dalton,
+  C.~W. de~Jager, R.~De~Leo, W.~Deconinck, P.~Decowski, X.~Deng, A.~Deur,
+  C.~Dutta, G.~B. Franklin, M.~Friend, S.~Frullani, F.~Garibaldi, A.~Giusa,
+  A.~Glamazdin, S.~Golge, K.~Grimm, O.~Hansen, D.~W. Higinbotham, R.~Holmes,
+  T.~Holmstrom, J.~Huang, M.~Huang, C.~E. Hyde, C.~M. Jen, G.~Jin, D.~Jones,
+  H.~Kang, P.~King, S.~Kowalski, K.~S. Kumar, J.~H. Lee, J.~J. LeRose,
+  N.~Liyanage, E.~Long, D.~McNulty, D.~Margaziotis, F.~Meddi, D.~G. Meekins,
+  L.~Mercado, Z.-E. Meziani, R.~Michaels, C.~Mu\~noz Camacho, M.~Mihovilovic,
+  N.~Muangma, K.~E. Myers, S.~Nanda, A.~Narayan, V.~Nelyubin, Nuruzzaman,
+  Y.~Oh, K.~Pan, D.~Parno, K.~D. Paschke, S.~K. Phillips, X.~Qian, Y.~Qiang,
+  B.~Quinn, A.~Rakhman, P.~E. Reimer, K.~Rider, S.~Riordan, J.~Roche, J.~Rubin,
+  G.~Russo, K.~Saenboonruang, A.~Saha, B.~Sawatzky, R.~Silwal, S.~Sirca, P.~A.
+  Souder, M.~Sperduto, R.~Subedi, R.~Suleiman, V.~Sulkosky, C.~M. Sutera, W.~A.
+  Tobias, G.~M. Urciuoli, B.~Waidyawansa, D.~Wang, J.~Wexler, R.~Wilson,
+  B.~Wojtsekhowski, X.~Zhan, X.~Yan, H.~Yao, L.~Ye, B.~Zhao, and X.~Zheng.
+\newblock New precision limit on the strange vector form factors of the proton.
+\newblock \emph{Phys. Rev. Lett.}, 108:\penalty0 102001, Mar 2012.
+\newblock \doi{10.1103/PhysRevLett.108.102001}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevLett.108.102001}.
+
+\bibitem[Green et~al.(2015)Green, Meinel, Engelhardt, Krieg, Laeuchli, Negele,
+  Orginos, Pochinsky, and Syritsyn]{Green2015}
+Jeremy Green, Stefan Meinel, Michael Engelhardt, Stefan Krieg, Jesse Laeuchli,
+  John Negele, Kostas Orginos, Andrew Pochinsky, and Sergey Syritsyn.
+\newblock High-precision calculation of the strange nucleon electromagnetic
+  form factors.
+\newblock \emph{Phys. Rev. D}, 92:\penalty0 031501, Aug 2015.
+\newblock \doi{10.1103/PhysRevD.92.031501}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevD.92.031501}.
+
+\bibitem[Friedrich and Walcher(2003)]{Walcher}
+J.~Friedrich and Th. Walcher.
+\newblock A coherent interpretation of the form factors of the nucleon in terms
+  of a pion cloud and constituent quarks.
+\newblock \emph{The European Physical Journal A - Hadrons and Nuclei},
+  17\penalty0 (4):\penalty0 607--623, 2003.
+\newblock ISSN 1434-6001.
+\newblock \doi{10.1140/epja/i2003-10025-3}.
+\newblock URL \url{http://dx.doi.org/10.1140/epja/i2003-10025-3}.
+
+\bibitem[Kelly(2004)]{Kelly}
+J.~J. Kelly.
+\newblock Simple parametrization of nucleon form factors.
+\newblock \emph{Phys. Rev. C}, 70:\penalty0 068202, Dec 2004.
+\newblock \doi{10.1103/PhysRevC.70.068202}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevC.70.068202}.
+
+\bibitem[Venkat et~al.(2011)Venkat, Arrington, Miller, and Zhan]{Venkat}
+Siddharth Venkat, John Arrington, Gerald~A. Miller, and Xiaohui Zhan.
+\newblock {Realistic Transverse Images of the Proton Charge and Magnetic
+  Densities}.
+\newblock \emph{Phys. Rev.}, C83:\penalty0 015203, 2011.
+\newblock \doi{10.1103/PhysRevC.83.015203}.
+
+\bibitem[Koester et~al.(1995)Koester, Waschkowski, Mitsyna, Samosvat,
+  Prokofjevs, and Tambergs]{Koester}
+L.~Koester, W.~Waschkowski, L.~V. Mitsyna, G.~S. Samosvat, P.~Prokofjevs, and
+  J.~Tambergs.
+\newblock Neutron-electron scattering length and electric polarizability of the
+  neutron derived from cross sections of bismuth and of lead and its isotopes.
+\newblock \emph{Phys. Rev. C}, 51:\penalty0 3363--3371, Jun 1995.
+\newblock \doi{10.1103/PhysRevC.51.3363}.
+\newblock URL \url{http://link.aps.org/doi/10.1103/PhysRevC.51.3363}.
+
+\bibitem[Filippone and Ji(2001)]{Filippone}
+B.W. Filippone and Xiangdong Ji.
+\newblock The spin structure of the nucleon.
+\newblock In J.W. Negele and E.W. Vogt, editors, \emph{Advances in Nuclear
+  Physics}, volume~26 of \emph{Advances in the Physics of Particles and
+  Nuclei}, pages 1--88. Springer US, 2001.
+\newblock ISBN 978-1-4757-0569-0.
+\newblock \doi{10.1007/0-306-47915-X_1}.
+\newblock URL \url{http://dx.doi.org/10.1007/0-306-47915-X_1}.
+
+\bibitem[Bevington and Robinson(July, 2002)]{Bevington}
+Philip~R. Bevington and D.~Keith Robinson.
+\newblock \emph{Data Reduction and Error Analysis for the Physical Sciences}.
+\newblock McGraw-Hill, 3rd edition, July, 2002.
+
+\end{thebibliography}

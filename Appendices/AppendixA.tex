@@ -1,0 +1,37 @@
+% Appendix A
+
+\chapter{Maximum Likelihood and the $\chi^2$ Statistic} 
+\captionsetup{justification=justified,singlelinecheck=false}
+
+\label{AppendixA} 
+
+\lhead{Appendix A. \emph{Chi-Squared Statistic}} 
+
+The parent distribution from which a given observation or measurement has been extracted determines the probability of that observation. Often in physics, a specific distribution is first assumed and then the mean and error of a given set of observations is calculated from the known characteristics of that distribution. For example, starting from a Gaussian parent distribution with mean $\mu$ and variance $\sigma^2$, the probability distribution is given as 
+\begin{equation}
+P(x)=\frac{1}{\sigma\sqrt{2\pi}}\int e^{-\frac{(x-\mu)^2}{2\sigma^2}}dx.
+\label{eq:gaussian_pdf}
+\end{equation}
+Therefore, the differential probability which gives the probability of observing a single value $x_i$ in an interval $dx_i$ is given as 
+\begin{equation}
+dP_i=\frac{1}{\sigma\sqrt{2\pi}}e^{-\frac{(x-\mu)^2}{2\sigma^2}}dx_i.
+\end{equation}
+
+Suppose instead that we have a functional form $y=f(x)$ for a given data set and the data are expected to be normally distributed about this function with variance $\sigma^2$. The assumption of a normal distribution allows us to calculate the probability of a given observation $y_i$ as
+\begin{equation}
+dP_i=\frac{1}{\sigma\sqrt{2\pi}}e^{-\frac{(y_i-y)^2}{2\sigma^2}}dy_i.
+\label{eq:differential_probability}
+\end{equation}
+Extending this to N independent observations gives a total probability of 
+\begin{equation}
+dP=\prod_{i=1}^NdP_i=\prod_{i=1}^N\frac{1}{\sigma\sqrt{2\pi}}e^{-\frac{(y_i-y)^2}{2\sigma^2}}dy_i.
+\label{eq:probability_product}
+\end{equation}
+If the functional form $y$ is parameterized by n coefficients $\alpha_n$, the best values for these coefficients can be found by maximizing the probability P. This is the essence of the \emph{method of maximum likelihood} by which best estimates of the parameters of the parent distribution are considered to be those which maximize the probability of the observed values. Maximizing \ref{eq:probability_product} is the same thing as minimizing the sum of the exponentials:
+\[
+\frac{dP}{d\alpha_n}=0\longrightarrow\frac{d}{d\alpha_n}\left(\sum_{i=1}^N(\Delta y_i/\sigma)^2\right)=0.
+\]
+
+Therefore, maximizing the probability for a Gaussian distribution leads to minimizing the $\chi^2$ statistic which is given as $\sum_i(\Delta y_i/\sigma)^2$.
+
+A detailed treatment of the $\chi^2$ statistic as a tool for finding the best fit and a test of the goodness of fit can be found in the well known text\emph{ Data Reduction and Error Analysis for the Physical Sciences}~\cite{Bevington} by Bevington and Robinson.

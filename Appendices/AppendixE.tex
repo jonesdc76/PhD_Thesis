@@ -1,0 +1,23 @@
+
+\chapter{Qweak Terminology} 
+\captionsetup{justification=justified,singlelinecheck=false}
+
+\label{AppendixE} 
+
+\lhead{Appendix E. \emph{Terminology}}
+This Appendix serves as a reference for the terminology used in the thesis which may be isolated to the \Qs experiment or to parity-violation experiments.
+
+\begin{itemize}
+\item {targetX(Y): electron beam horizontal(vertical) position measured by extrapolating positions from beam position monitors (BPM's) in the drift region before the target downstream to the target position.}
+\item {targetXSlope(YSlope): electron beam horizontal angle(vertical angle) relative to the ideal beam axis and measured by finding differences between BPM's in the drift region before the target.}
+\item{BPM3c12X: the X or horizontal measurement of the BPM located in the region of highest dispersion of the electron beam in the arc leading into Hall C. BPM3c12X is highly sensitive to energy shifts and is often referred to as our ``energy monitor''.}
+\item { qwk\_energy: a calculated variable designed to represent true energy shifts in the electron beam. It mainly utilizes BPM3c12X, the BPM most sensitive to energy, but subtracts measured position and angle sensitivities.}
+\item{ qwk\_charge: a variable representing the measurement of electron beam current used to normalize the main detector. For Run 1 qwk\_charge was an average of BCM1 and BCM2. For most of Run 2 it was BCM8.}
+\item{BCM\#: beam current monitors used to measure beam current in the experimental hall and numbered according to their position on the beam line with BCM1 being the most upstream.}
+\item{BPMwxyz: these are beam position monitors which read out electron beam position transverse to the ideal beam trajectory. ``w'' is a number given to the experimental hall. For BPM's reading the Hall C beam position w=3.  ``x'' gives a clue as to the location of the monitor. For example ``x=c'' means the BPM is located in the beam tunnel leading to Hall C whereas ``x=h'' means it is located in the experimental hall. ``y''gives the girder number on which the BPM is located. ``z'' takes values either ``X'' or ``Y'' referring to measurements of horizontal and vertical displacement respectively.}
+\item{MPS: stands for ``Macro-Pulse Synchronization'' and is the timing signal that controls the timing of helicity state changes on the electron beam. In common usage in \Qs it is used to refer to a time of approximately 1~ms in which data for a specific helicity state was taken continuously.}
+\item{Quartet: all measurements for \Qs were taken in groups of four distinct consecutive MPS windows called ``quartets''. The helicity pattern over a quartet was either +--+ or -++- with the sign of the first chosen pseudo-randomly. This pattern was chosen to cancel slow linear drifts.}
+\item{Yield, Difference, Asymmetry: these are the three measurements recorded for all detectors and monitors used in the \Qs experiment. ``Yield'' refers to the absolute signal integrated over the gated MPS window for any given detector. Yield is normalized to integration time and beam current and has units of V/($\mu$A$\cdot$s). ``Difference'' refers to the average difference between yields of opposite helicity states measured over a quartet. Specifically it refers to $\pm(Y_1+Y_4-Y_2-Y_3)/4$, where $Y_i$ refers to the number of the MPS in the quartet and where ``+'' refers to the $+--+$ pattern and ``$-$'' refers to the $-++-$ pattern. ``Asymmetry'' is the difference normalized to the average yield.}
+\item{PMT Average Asymmetry: called ``AsymPMTavg'' or ``AsymMD\textunderscore PMTavg'' where ``MD'' acknowledges that the average is over the ``main detector''. The main detector has eight separated bars and each bar is readout with two PMT's, one on each end for a total of 16 signals. These signals can be combined different ways. One choice is the equal-weighted average of the asymmetries to obtain an average asymmetry. ``PMT Average Asymmetry'' is this straight average. Since there is no {\it a priori} reason to weight the results of one PMT over others any average yield must apply a weighting factor to equalize signal strengths that naturally exist in the PMT's before averaging. Thus, there is no such thing as a PMT Average yield or difference since this average would involve weighting the signals.}
+\item{MDallbars: \Qs jargon for a particular weighting used to produce an average yield for the main detector PMT's. The weighting approximately equalizes the natural variation in signal from the PMT's. This weighted average of yields can then be used to produce MDallbars differences and asymmetries.}
+\end{itemize}
